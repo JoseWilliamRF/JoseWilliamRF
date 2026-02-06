@@ -17,7 +17,7 @@
     <td width="50%" valign="top">
       <h3 align="center">C3T Engenharia</h3>
       <div align="center">
-         <a href="LINK_DO_REPOSITORIO_C3T">
+         <a href="[https://github.com/JoseWilliamRF/C3T.git]">
            <img src="./assets/c3t.png" alt="C3T" width="100%">
          </a>
       </div>
@@ -29,7 +29,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Smart Cart Logic</h3>
       <div align="center">
-        <a href="LINK_DO_REPOSITORIO_CART">
+        <a href="[https://github.com/JoseWilliamRF/Product-list-with-cart.git]">
            <img src="./assets/cart.png" alt="Cart" width="100%">
         </a>
       </div>
@@ -44,7 +44,7 @@
     <td colspan="2" valign="top">
       <h3 align="center">Carolina Alves Portfolio</h3>
       <div align="center">
-        <a href="LINK_DO_REPOSITORIO_PORTFOLIO">
+        <a href="[https://github.com/JoseWilliamRF/LandingPageCarol.git]">
            <img src="./assets/alves.png" alt="Portfolio" width="80%">
         </a>
       </div>
